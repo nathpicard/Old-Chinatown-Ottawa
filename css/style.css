@@ -9,13 +9,12 @@ float:left;
 width:1000px;
 padding-right: 30px ;
 padding-left: 30px ;
-margin-top: 50px ;
+margin-top: 20px ;
 margin-bottom: 100px ;
 /*.... more attributes ... */
 }
 #testsidebar-wrapper {
 float:right;
-float: top;
 width:250px;
 /*.... more attributes ... */
 }
