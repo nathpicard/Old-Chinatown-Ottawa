@@ -4,18 +4,17 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-.clearFix {
-    clear: both;
-}
-
-#testsidebar {
-    width: 300px;
-    height: 1000px;
-    background-color: red;
-    float: right;
-
-}
-
+/*Sidebar
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 300px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
 
 /* Sticky footer styles
 -------------------------------------------------- */
