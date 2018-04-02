@@ -6,12 +6,12 @@
 
 #testmain-wrapper {
 float:left;
-width:620px;
+width:1000px;
 /*.... more attributes ... */
 }
 #testsidebar-wrapper {
 float:right;
-width:300px;
+width:250px;
 /*.... more attributes ... */
 }
 
