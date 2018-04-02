@@ -4,6 +4,17 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
+#testmain-wrapper {
+float:left;
+width:620px;
+/*.... more attributes ... */
+}
+#testsidebar-wrapper {
+float:right;
+width:300px;
+/*.... more attributes ... */
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
