@@ -4,7 +4,12 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-/* Sidebar */
+/* two columns */
+.testleftcolumn { 
+  float: left;
+  width: 75%;
+}
+
 .testrightcolumn {
   float: right;
   width: 25%;
