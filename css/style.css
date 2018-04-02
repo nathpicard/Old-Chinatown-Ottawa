@@ -20,11 +20,6 @@ margin-bottom: 100px ;
 /*.... more attributes ... */
 }
 
-hr2 {
-  height: 10px;
-  border: 0;
-  box-shadow: 0 10px 10px -10px #8c8c8c inset;
-}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
