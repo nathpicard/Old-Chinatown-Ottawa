@@ -9,8 +9,13 @@
   float: left;
   width: 25%;
   padding-left: 20px;
+	
 }
 }
+.testcard {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
 
 /* Sticky footer styles
 -------------------------------------------------- */
