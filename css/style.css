@@ -15,6 +15,7 @@ margin-bottom: 100px ;
 }
 #testsidebar-wrapper {
 float:right;
+float: top;
 width:250px;
 /*.... more attributes ... */
 }
