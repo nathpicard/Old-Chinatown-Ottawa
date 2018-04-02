@@ -7,9 +7,9 @@
 #testmain-wrapper {
 float:left;
 width:1000px;
-padding-right: 30px
-padding-left: 30px
-padding-top: 30px
+padding-right: 30px ;
+padding-left: 30px ;
+margin-top: 50px ;
 /*.... more attributes ... */
 }
 #testsidebar-wrapper {
