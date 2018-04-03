@@ -20,11 +20,9 @@ margin-right: 10px ;
 margin-bottom: 100px ;
 /*.... more attributes ... */
 }
-.hr2 {
-  height: 10px;
-  border: 0;
-  box-shadow: 0 10px 10px -10px #8c8c8c inset;
-}
+
+#.border { border-width: 25px; border-color: white; border-style: solid; }
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
