@@ -21,7 +21,11 @@ margin-bottom: 100px ;
 /*.... more attributes ... */
 }
 
-#border { border-width: 25px; border-color: white; border-style: solid; }
+#border { 
+border-width: 25px ;
+border-color: red ;
+border-style: solid ;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
